@@ -1,2 +1,5 @@
 #include<DisplayDriver.h>
-#include<Piece.h>
+#include<ShapeRenderer.h>
+#include<TextRenderer.h>
+//#include<Piece.h>
+
